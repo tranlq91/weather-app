@@ -10,8 +10,8 @@
 
  - Should I wear sunscreen?
 
-     +Is UV index above 3 then YES
+     + Is UV index above 3 then YES
 
  - Can I fly my kite?
 
-     +Yes if not raining and wind speed over 15
+     + Yes if not raining and wind speed over 15
